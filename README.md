@@ -8,7 +8,7 @@ I'm a full stack engineer. Who loves to work with ultramodern technologies. My g
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 
 
