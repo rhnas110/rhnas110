@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I am As 👋</div>  
+# <div align="left">Hi there, I am As 👋</div>  
   
 
 I'm a full stack engineer. Who loves to work with ultramodern technologies. My goal is to give value to the large community of developers.  
